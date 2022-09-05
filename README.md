@@ -1,1 +1,1 @@
-# Triple_pjt
+# Triple 소스코드입니다
